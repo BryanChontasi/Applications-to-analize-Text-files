@@ -1,0 +1,1 @@
+# Applications-to-analize-Text-files
